@@ -1,0 +1,1 @@
+export { getQuestionTamplate } from './getQuestionTamplate'

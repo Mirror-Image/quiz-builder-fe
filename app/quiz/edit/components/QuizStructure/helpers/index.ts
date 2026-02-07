@@ -1,0 +1,1 @@
+export { getButontext } from './getButontext'
